@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Webpage of Mr. Francis Freeman</title>
+
+
+</head>
+
+<body>
+<h1> Mr. Francis Freeman </h1>
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/000/150/292/11c8f88.jpg"/>
+<h3>Academic Highlights</h3>
+<p>Bachelor of Science in Political Science and International Studies, December 2009 </p>
+<p>University of Wisconsin-River Falls (UWRF), Dean's List
+International Teacher Training Organization 140 hour Advanced TEFL Certificate</p>
+<p>Post-Graduate Certification in TESOL, December 2014
+University of Wisconsin-River Falls (UWRF)</p>
+<p>Graduate Teaching Licensure in Social Studies Education, June 2016 The College of Saint Scholastica, (CSS)</p>
+<a href="www.uwrf.edu"><img src="https://www.uwrf.edu/Athletics/images/AthleticFalcon_2.png" ></a>
+<a href="www.css.edu"><img src="https://www.css.edu/prebuilt/images/2013/site/css-logo.png" />
+</body>
+
+
+
+</html>
